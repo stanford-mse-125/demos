@@ -80,32 +80,32 @@ You can query df.loc with
   
  ### Seaborn plotting functions
  
-* sns.histplot : Plot univariate or bivariate histograms to show distributions of datasets.
-   **Documentation** : https://seaborn.pydata.org/generated/seaborn.histplot.html
+* sns.histplot : Plot univariate or bivariate histograms to show distributions of datasets.   
+  **Documentation** : https://seaborn.pydata.org/generated/seaborn.histplot.html
 
 
 * sns.countplot : Show the counts of observations in each categorical bin using bars. A count plot can be thought of as a histogram across a categorical, instead of quantitative, variable.  
-   **Documentation** : https://seaborn.pydata.org/generated/seaborn.countplot.html
+  **Documentation** : https://seaborn.pydata.org/generated/seaborn.countplot.html
       
    
-* sns.lineplot : Draw a lineplot. 
-   **Documentation** : https://seaborn.pydata.org/generated/seaborn.lineplot.html
+* sns.lineplot : Draw a lineplot.  
+  **Documentation** : https://seaborn.pydata.org/generated/seaborn.lineplot.html
    
    
-* sns.scatterplot : Draw a scatter plot.
-   **Documentation** : https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+* sns.scatterplot : Draw a scatter plot.  
+  **Documentation** : https://seaborn.pydata.org/generated/seaborn.scatterplot.html
    
    
-* sns.boxplot : Draw a box plot to show distributions with respect to categories.
-   **Documentation** : https://seaborn.pydata.org/generated/seaborn.boxplot.html
+* sns.boxplot : Draw a box plot to show distributions with respect to categories.  
+  **Documentation** : https://seaborn.pydata.org/generated/seaborn.boxplot.html
    
    
-* sns.barplot : A bar plot represents an estimate of central tendency for a numeric variable with the height of each rectangle and provides some indication of the uncertainty around that estimate using error bars.  
-   **Documentation** : https://seaborn.pydata.org/generated/seaborn.barplot.html 
+* sns.barplot : A bar plot represents an estimate of central tendency for a numeric variable with the height of each rectangle and provides some indication of the uncertainty around that estimate using error bars.   
+  **Documentation** : https://seaborn.pydata.org/generated/seaborn.barplot.html 
    
    
-* sns.catplot : This function provides access to several axes-level functions that show the relationship between a numerical and one or more categorical variables using one of several visual representations. The kind parameter selects the underlying axes-level function to use. This function allows you to plot boxplots, violin plots, and so on. 
-   **Documentation** : https://seaborn.pydata.org/generated/seaborn.catplot.html
+* sns.catplot : This function provides access to several axes-level functions that show the relationship between a numerical and one or more categorical variables using one of several visual representations. The kind parameter selects the underlying axes-level function to use. This function allows you to plot boxplots, violin plots, and so on.   
+  **Documentation** : https://seaborn.pydata.org/generated/seaborn.catplot.html
    
  
 
